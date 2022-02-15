@@ -242,6 +242,19 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 LETRA "T"				
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
 
+<item>
+<title>[B][COLOR white]The Rescue (2021)[/COLOR][/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=UX0eachYSHY$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]The Rescue[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:807dff9a546858f01d7adbf66ebc35a05c3beaa5$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]The Rescue - HD LEG[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:mz3eqsiddegldxddhmnnadxtwvp3ghu4$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]The Rescue - FHD DUAL[/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/6AVT-FM/LS-The.Rescue.2021.FHD.DUAL.mkv$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]The Rescue - DUB - LEGFIX[/B][/COLOR]</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/kC7fVtCkJACwPBaRr2hlj2whfKX.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/gOBKWe6lHlt8srk11TFlDuBtl0H.jpg</fanart>
+<info>Narra a história improvável que paralisou o mundo em 2018: o resgate desafiador de 12 garotos e seu treinador das profundezas de uma caverna inundada no norte da Tailândia.</info>
+<genre>AVENTURA</genre>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 LETRA "U"				
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
@@ -294,7 +307,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 
 
-<item>
+item>
 <title>[COLOR white][B]NomedoFilme (DATA)[/B][/COLOR]</title>
 
 <link>plugin://plugin.video.youtube/play/?video_id=<LINKDOTRAILER>$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]NomedoFilme[/B][/COLOR]</link>
